@@ -1,0 +1,7 @@
+*.pyc
+*.swp
+*.log
+config/config.cfg
+secrets
+.vscode/
+temporary_files/
